@@ -1,5 +1,5 @@
-Multi Login dengan Hash di CodeIgniter BY SUSANTOKUN
-====================================================
+Multi Login dengan Hash di CodeIgniter
+============================================================
 
 Berikut adalah fitur - fitur yang terdapat pada ci_susantokun_login :
 ------------------------------------------------------------
@@ -13,11 +13,11 @@ Berikut adalah fitur - fitur yang terdapat pada ci_susantokun_login :
 - Penambahan MY_Controller untuk session cek login di setiap controller
   
 User Login
-----------------------------------------------------
+------------------------------------------------------------
 - E-mail    : admin@admin.com (administrator)
 - E-mail    : member@gmail.com (member)
 - Password  : password
 
 Cara Membuat Multi Login dengan Hash di CodeIgniter
-----------------------------------------------------
+------------------------------------------------------------
 - https://www.susantokun.com/cara-membuat-multi-login-dengan-hash-di-codeigniter
