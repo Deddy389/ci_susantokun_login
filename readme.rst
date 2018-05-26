@@ -1,6 +1,6 @@
-######################################
 Multi Login dengan Hash di CodeIgniter
-######################################
+============================================================
+.. contents:: 
 
 Berikut adalah fitur - fitur yang terdapat pada ci_susantokun_login :
 ------------------------------------------------------------
