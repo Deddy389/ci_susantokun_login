@@ -18,6 +18,7 @@ User Login
 - E-mail    : member@gmail.com (member)
 - Password  : password
 
-Cara Membuat Multi Login dengan Hash di CodeIgniter
+Demo dan Cara Membuat Multi Login dengan Hash di CodeIgniter
 ------------------------------------------------------------
+- https://www.susantokun.com/demo/ci_susantokun_login/
 - https://www.susantokun.com/cara-membuat-multi-login-dengan-hash-di-codeigniter
